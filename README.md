@@ -1,3 +1,6 @@
-# LP1DPBO2024C1
-dokumentasi 
-https://docs.google.com/document/d/17rUeuM7P1PnGoOaY3woyE_MjN-egaDdZrB-3d33h6nw/edit
+/*Saya Muhammad Rafie Alhabsyi Setiawan NIM 2202400
+mengerjakan soal Latihan Praktikum 1
+dalam mata kuliah DESAIN DAN PEMROGRAMAN BERORIENTASI
+untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*/
+
+
